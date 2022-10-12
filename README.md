@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRounak&theme=radical)](https://github.com/CoderRounak/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CoderRounak&theme=radical)](https://git.io/streak-stats)
+
 ![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderRounak&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoderRounak&theme=radical)](https://github.com/CoderRounak/github-profile-trophy)
+
