@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRounak)](https://github.com/CoderRounak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRounak&theme=radical)](https://github.com/CoderRounak/github-readme-stats)
 
-![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderRounak&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderRounak&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderRounak&theme=radical)](https://github.com/CoderRounak/github-profile-trophy)
